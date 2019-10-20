@@ -1,0 +1,15 @@
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\NUnit3.TestAdapter.dll
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\NUnit3.TestAdapter.pdb
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\nunit.engine.dll
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\nunit.engine.api.dll
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\6.2.Interface.exe.config
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\6.2.Interface.exe
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\6.2.Interface.pdb
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\nunit.framework.dll
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\nunit.framework.pdb
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\bin\Debug\nunit.framework.xml
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\obj\Debug\6.2.Interface.csprojAssemblyReference.cache
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\obj\Debug\6.2.Interface.csproj.CoreCompileInputs.cache
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\obj\Debug\6.2.Interface.csproj.CopyComplete
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\obj\Debug\6.2.Interface.exe
+D:\year2 อ.เอกลัก\BasisProject\6.Interfaces\2.Interface\6.2.Interface\6.2.Interface\obj\Debug\6.2.Interface.pdb
